@@ -16,5 +16,5 @@ title = test_fb
 dependencies = https://github.com/defold/extension-facebook/archive/master.zip
 
 [facebook]
-appid = 226867284595026
+appid = 497485724401211
 
